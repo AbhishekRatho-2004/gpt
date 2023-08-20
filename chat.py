@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_chat import message
-from dotenv import load_dotenv
 import streamlit as st
 import os
 import openai
